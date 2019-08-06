@@ -5,7 +5,6 @@ from flask import Flask
 from flask_restful import Resource, Api
 
 # Instantiate the app
-#here is a test comment
 app = Flask(__name__)
 api = Api(app)
 
