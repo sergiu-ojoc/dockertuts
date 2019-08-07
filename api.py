@@ -4,6 +4,7 @@ from flask_restful import Resource, Api
 
 # Instantiate the app
 #test for triggering automatic build
+# sorin test for automatic build
 app = Flask(__name__)
 api = Api(app)
 
